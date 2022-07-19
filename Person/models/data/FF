@@ -1,0 +1,10 @@
+{
+    "name": "FF",
+    "age": 24,
+    "gender": "Male",
+    "hobbies": null,
+    "todo": [
+        "coding",
+        "writing"
+    ]
+}

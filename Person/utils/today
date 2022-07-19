@@ -1,0 +1,9 @@
+{
+    "name": "FF",
+    "age": 24,
+    "gender": "Male",
+    "todo": [
+        "coding",
+        "writing"
+    ]
+}
