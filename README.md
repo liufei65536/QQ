@@ -2,7 +2,11 @@ QQ
 
 有好的资源、项目欢迎共享。
 如果文件大小比较大（超过50MB)，建议放到github、gitee、网盘，然后附上网址。
-
+# pygame_intro
+Pygame入门，介绍了一般游戏流程和精灵类。视频时长约4小时。
+>视频链接：www.youtube.com/watch?v=AY9MnQ4x3zk
+B站搬运地址：www.bilibili.com/video/BV1Vh411q7z1
+代码及素材：github.com/clear-code-projects/UltimatePygameIntro
 ----------------------------------------------------
 
 日期：2022年7月8日
